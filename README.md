@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masaraed96
+- 👋 Hi, I’m Masa Abdalhalim
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/masaabdalhalim/
