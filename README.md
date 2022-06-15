@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Masa Abdalhalim
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Software Engineering, Data Analysis and Design Thinking
 - 📓 check out my blogs on medium https://masaraed96.medium.com/
 - 📫 How to reach me https://www.linkedin.com/in/masaabdalhalim/
 <!---
